@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="left">자바 백엔드 개발자를 꿈꿉니다.&nbsp;🚀</h3>
 <br/>
 <hr>
-<h3 align="left">👍 &nbsp;&nbsp;I am interested in</h3>
+<h3 align="center">👍 &nbsp;&nbsp;I am interested in</h3>
 <p align="center"> Java, Spring, Back-end </p>
 <br/>
 <hr>
@@ -43,4 +43,4 @@ Here are some ideas to get you started:
  <br/>
  <hr>
  <h3 align="center">✍️ &nbsp;&nbsp;Tech Blog</h3>
- <p align="center"> [Go to Blog(Click)](http://www.google.co.kr) </p>
+ <p align="center"> [Go to Blog(Click)](http://devraphy.tistory.com) </p>
