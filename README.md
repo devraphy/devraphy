@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">💪&nbsp;Skills</h3>
 <p align="center"> Currently using and learning </p>
-
 <p align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp; 
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/css-ff69b4?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp; 
  <img src="https://img.shields.io/badge/Javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp;
 </p>
- <br/>
  <hr>
  <h3 align="center">✍️ &nbsp;&nbsp;Tech Blog</h3>
  <p align="center"> http://devraphy.tistory.com </p>
