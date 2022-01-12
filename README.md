@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **devraphy/devraphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,12 +19,12 @@ Here are some ideas to get you started:
 <h3 align="left">자바 백엔드 개발자를 꿈꿉니다.&nbsp;🚀</h3>
 <br/>
 <hr>
-<h3 align="center">👍 &nbsp;&nbsp;I am interested in</h3>
+<h3 align="center">👍&nbsp;I am interested in</h3>
 <p align="center"> Java, Spring, Back-end </p>
 <br/>
 <hr>
 
-<h3 align="center">💪 &nbsp;&nbsp;Skills</h3>
+<h3 align="center">💪&nbsp;Skills</h3>
 <p align="center"> Techs, currently using and learning </p>
 
 <p align="center">
@@ -43,4 +42,4 @@ Here are some ideas to get you started:
  <br/>
  <hr>
  <h3 align="center">✍️ &nbsp;&nbsp;Tech Blog</h3>
- <p align="center"> [Go to Blog(Click)](http://devraphy.tistory.com) </p>
+ <p align="center"> http://devraphy.tistory.com </p>
