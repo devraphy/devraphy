@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyun%20Hyoung%20Lee&fontColor=black&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=높이보다%20멀리%20가고%20싶은%20개발자&descAlign=24&descSize=25&descAlignY=58)
-</center> 
+
 
 <h3 align="center">🚀&nbsp;자바 백엔드 개발자를 꿈꿉니다.</h3>
 <br/>
