@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 꿈꿉니다.</h3>
 <hr>
-<h3 align="center"> 🛠 &nbsp;Skills &nbsp;🛠</h3>
-<br/>
 <h3 align="center">📌 &nbsp;메인으로 사용해요.</h3>
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/Java-3673A5?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
