@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyun%20Hyoung%20Lee&fontColor=black&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=꾸준함의%20가치를%20아는%20개발자&descAlign=24&descSize=25&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyun%20Hyoung%20Lee&fontColor=white&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=꾸준함의%20가치를%20아는%20개발자&descAlign=24&descSize=25&descAlignY=58)
 
 
 <h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 꿈꿉니다.</h3>
