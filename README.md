@@ -37,6 +37,8 @@ Here are some ideas to get you started:
  <a href="#"><img src="https://img.shields.io/badge/-Python-3673A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
  <a href="#"><img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
  <a href="#"><img src="https://img.shields.io/badge/Oracle-ED0000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp
+
 </p>
 
 <br/>
