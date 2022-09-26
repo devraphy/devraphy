@@ -21,23 +21,23 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">📌 &nbsp;자주 사용해요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/Java-3673A5?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/Spring-68aa3b?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp; 
- <a href="#"><img src="https://img.shields.io/badge/SpringBoot-68aa3b?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/JPA-darkgreen?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/Java-3673A5?style=for-the-badge&logo=CoffeeScript&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/Spring-68aa3b?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp; 
+ <a href="#"><img src="https://img.shields.io/badge/SpringBoot-68aa3b?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/JPA-darkgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
 </p>
 <br/>
 <h3 align="center"> 👍 &nbsp;사용할 줄 알아요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
- <a href="#"><img src="https://img.shields.io/badge/-CSS3-304CDC?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp  
- <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp 
- <a href="#"><img src="https://img.shields.io/badge/Vue.js-00b97a?style=flat-square&logo=vue.js&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp  
+ <a href="#"><img src="https://img.shields.io/badge/-CSS3-304CDC?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp  
+ <a href="#"><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp 
+ <a href="#"><img src="https://img.shields.io/badge/Vue.js-00b97a?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
  <br/>
- <a href="#"><img src="https://img.shields.io/badge/-Python-3673A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/MySQL-F29111?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/Oracle-ED0000?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/-Python-3673A5?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/Oracle-ED0000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp
 
 </p>
 
@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🔧&nbsp;사용하는 도구에요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp  
- <a href="#"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
- <a href="#"><img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp  
+ <a href="#"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp
+ <a href="#"><img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>&nbsp
 </p>
  
  <hr>
