@@ -43,8 +43,8 @@ Here are some ideas to get you started:
  <a href="#"><img src="https://img.shields.io/badge/Spring Security-darkgreen?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>&nbsp;
  <br/>
  <a href="#"><img src="https://img.shields.io/badge/JWT-6b2ca5?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/AWS CloudWatch-ec3f6b?style=for-the-badge&logo=AWS&logoColor=white"/></a>&nbsp; 
  <a href="#"><img src="https://img.shields.io/badge/Vue.js-00b97a?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/AWS CloudWatch-ec3f6b?style=for-the-badge&logo=AWS&logoColor=white"/></a>&nbsp;  
  <br/>
  <a href="#"><img src="https://img.shields.io/badge/-Python-3673A5?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
  <a href="#"><img src="https://img.shields.io/badge/-Oracle-ED0000?style=for-the-badge&logo=oracle&logoColor=white"/></a>&nbsp;
@@ -57,10 +57,12 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 🔧&nbsp;사용하는 도구에요.</h3>
 <p align="center">
- <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp;  
- <a href="#"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/-IntelliJ-267fd3?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/-DataGrip-83c483?style=for-the-badge&logo=DataGrip&logoColor=white"/></a>&nbsp; 
+ <a href="#"><img src="https://img.shields.io/badge/-GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=black"/></a>&nbsp;
+ <br/>
  <a href="#"><img src="https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/Putty-d2f28c?style=for-the-badge&logo=Putty&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/Putty-808080?style=for-the-badge&logo=Putty&logoColor=white"/></a>&nbsp;
 </p>
  
  <hr>
