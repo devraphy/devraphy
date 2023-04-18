@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:40E0D0,100:FF8C00&height=300&section=header&text=Gyun%20Hyoung%20Lee&fontColor=FFFFFF&fontSize=65&fontAlign=36&fontAlignY=35&animation=fadeIn&desc=꾸준함의%20가치를%20아는%20개발자&descAlign=24&descSize=25&descAlignY=58)
 
 
-<h3 align="center">🚀 &nbsp; 자바 백엔드 개발자를 목표합니다.</h3>
+<h3 align="center">🚀 &nbsp; 기술로 비즈니스적 이점을 만드는 개발자를 목표합니다.</h3>
 <hr>
 <h3 align="center">📌 &nbsp;자주 사용해요.</h3>
 <p align="center">
  <a href="#"><img src="https://img.shields.io/badge/Spring-darkgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp; 
- <a href="#"><img src="https://img.shields.io/badge/Spring Boot-darkgreen?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp;
- <a href="#"><img src="https://img.shields.io/badge/Spring JPA-darkgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/JSP-darkgreen?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp;
  <br/>
  <a href="#"><img src="https://img.shields.io/badge/Java-3673A5?style=for-the-badge&logo=CoffeeScript&logoColor=white"/></a>&nbsp;
  <a href="#"><img src="https://img.shields.io/badge/MySQL-%23FF6C37?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
@@ -32,6 +31,8 @@ Here are some ideas to get you started:
 <br/>
 <h3 align="center"> 👍 &nbsp;사용할 줄 알아요.</h3>
 <p align="center">
+ <a href="#"><img src="https://img.shields.io/badge/Spring Boot-darkgreen?style=for-the-badge&logo=SpringBoot&logoColor=white"/></a>&nbsp;
+ <a href="#"><img src="https://img.shields.io/badge/Spring JPA-darkgreen?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp;
  <a href="#"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white"/></a>&nbsp;
  <a href="#"><img src="https://img.shields.io/badge/Spring Security-darkgreen?style=for-the-badge&logo=Spring Security&logoColor=white"/></a>&nbsp;
  <br/>
